@@ -1,6 +1,0 @@
-[submodule "deep_pnml"]
-	path = deep_pnml
-	url = https://github.com/kobybibas/deep_pnml_experiments
-[submodule "blahut_arimoto_algorithm"]
-	path = blahut_arimoto_algorithm
-	url = https://github.com/kobybibas/blahut_arimoto_algorithm.git
