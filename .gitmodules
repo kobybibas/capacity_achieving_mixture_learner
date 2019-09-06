@@ -1,0 +1,6 @@
+[submodule "externals/deep_pnml"]
+	path = externals/deep_pnml
+	url = https://github.com/kobybibas/deep_pnml_experiments.git
+[submodule "externals/blahut_arimoto_algorithm"]
+	path = externals/blahut_arimoto_algorithm
+	url = https://github.com/kobybibas/blahut_arimoto_algorithm.git
